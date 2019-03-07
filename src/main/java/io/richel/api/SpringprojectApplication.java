@@ -10,6 +10,7 @@ public class SpringprojectApplication {
 		SpringApplication.run(SpringprojectApplication.class, args);
 		
 		System.out.println("My first Spring Boot project");
+		System.out.println("Äfter all");
 	}
 
 }
